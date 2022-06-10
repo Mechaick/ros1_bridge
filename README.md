@@ -1,3 +1,5 @@
+This package also support theora_image_transport package and can be used as an inspiration to bridge any package not finishing by "_msgs"
+
 # Bridge communication between ROS 1 and ROS 2
 
 This package provides a network bridge which enables the exchange of messages between ROS 1 and ROS 2.
